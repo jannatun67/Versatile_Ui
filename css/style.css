@@ -401,14 +401,14 @@ footer{
     }
     .card-text{
         margin-left: 150px;
-        width: 163px;
-        padding: 3px 8px;
+        width: 168px;
+        padding: 5px 8px;
     }
     .card-text h2{
         font-size: 20px;
     }
     .card-text p{
-        font-size: 10px;
+        font-size: 12px;
     }
     .card-item-text{
         width: 163px;
@@ -460,6 +460,14 @@ footer{
     .team{
         grid-template-columns: 1fr;
         
+    }
+    .team{
+        max-width: 100%;
+    }
+    .team-member{
+        width: 250px;
+        height: 250px;
+       
     }
     .footer{
         flex-direction: column;
