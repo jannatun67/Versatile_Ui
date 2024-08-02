@@ -400,8 +400,23 @@ footer{
         margin-left: 5px;
     }
     .card-text{
-        margin-left: 180px;
+        margin-left: 150px;
+        width: 163px;
+        padding: 3px 8px;
     }
+    .card-text h2{
+        font-size: 20px;
+    }
+    .card-text p{
+        font-size: 10px;
+    }
+    .card-item-text{
+        width: 163px;
+        padding: 3px 8px;
+    }
+   .card-item-text h2{
+    font-size: 20px;
+   }
     .change-habits-card{
         grid-template-columns: 1fr;
        gap: 1.5rem;
