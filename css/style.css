@@ -410,11 +410,11 @@ footer{
     }
     .card-text{
         margin-left: 160px;
-        width: 160px;
+        width: 170px;
         padding: 3px 8px;
     }
     .card-text h2{
-        font-size: 23px;
+        font-size: 20px;
     }
     .card-text p{
         font-size: 13px;
