@@ -410,8 +410,8 @@ footer{
     }
     .card-text{
         margin-left: 160px;
-        width: 180px;
-        padding: 8px 10px;
+        width: 160px;
+        padding: 3px 8px;
     }
     .card-text h2{
         font-size: 23px;
@@ -483,6 +483,12 @@ footer{
         width: 295px;
         height: 280px;
        
+    }
+    .run-img {
+        width: 300px;
+    }
+    .run-img img{
+        width: 100%;
     }
     .footer{
         flex-direction: column;
