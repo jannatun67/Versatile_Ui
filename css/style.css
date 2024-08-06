@@ -465,13 +465,18 @@ footer{
         max-width: 100%;
     }
     .team-member{
-        width: 250px;
-        height: 250px;
+        width: 295px;
+        height: 280px;
        
     }
     .footer{
         flex-direction: column;
         gap: 20px;
+    }
+    .container{
+        max-width: 92%;
+        margin:0 auto;
+        padding: 2rem 0;
     }
 }
 /* medium size device */
